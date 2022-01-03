@@ -6,3 +6,5 @@ To download this datapack click the button labled "code" in the top right of the
 
 # Arktys On YouTube
 https://www.youtube.com/channel/UCRBqxbOiDI959c8BftBbwpg
+
+LET ME KNOW OF ANY BUGS PLEASE!!!
